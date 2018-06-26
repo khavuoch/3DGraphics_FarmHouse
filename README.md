@@ -1,15 +1,16 @@
-Farm House
-By: Sandy Chau, Kunlakan Cherdchusilp (Jeen), Vuochly Ky (Nin)
+# Final Project Document
 
-DESCRIPTION
+*By: Sandy Chau, Kunlakan Cherdchusilp (Jeen), Vuochly Ky (Nin)*
+
+### DESCRIPTION
 
 The Farm House project is the combination of 3D modeling and a simulation. The project will create a 3D world the contains 3D models of buildings, animals, and plants. The scene will be located in a farmland but the building will be a modern house. The house will allow the user to enter and move around the first and second floor. The inside of the house will contain 3D models of furnitures that allow users to interact with the door and faucet. 
 On the outside, there will be a farmland and fields that contain animals, trees and crops. 3D models of animals such as a cow, chicken, and pig will roam the field. On the farmland, there will also be crops such as a rice paddy and trees. There is also mountains in the background.
 
 
-FEATURES
+### FEATURES
 
-i. Implemented Functional Requirements
+#### Implemented Functional Requirements
 The user shall be able to walk around in the scene.
 The user shall be able to walk into the house.
 The user shall be able to press WASD keys or arrow keys on the keyboard to move along the screen
@@ -22,7 +23,7 @@ The simulation shall show gravity and water effects
 The simulation shall show day and night cycle
 The simulation showcases wind effect 
 
-ii. Non-functional Requirements
+#### Non-functional Requirements
 Correctness
 All inputs, such as keys on the keyboard and mouse click, shall behave as specified in the requirement. If they are not specified, they shall do nothing when being pressed.
 Images loaded onto screen shall appear without disfiguration. 
