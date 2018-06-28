@@ -24,42 +24,60 @@ The simulation shall show day and night cycle
 The simulation showcases wind effect 
 
 #### Non-functional Requirements
-Correctness
+*Correctness*
+
 All inputs, such as keys on the keyboard and mouse click, shall behave as specified in the requirement. If they are not specified, they shall do nothing when being pressed.
 Images loaded onto screen shall appear without disfiguration. 
 
-Reliability
+*Reliability*
+
 The user should be able to run the program on a Windows or Mac OSX operating consistently. 
 The user should expect the simulation to run each time upon loading
 Crashes due to the software bugs should be minimized.
 
-Robustness
+*Robustness*
+
 If program crashes, the program shall restart from beginning
 
-Verifiability
+*Verifiability*
 All major use cases must be regression tested.
 100% of the user requirements must be measureable.
 
-Usability
+*Usability*
+
 The program’s UI and control shall be simple/straight forward so that it is easily understood by the user (user-friendly).
 User shall be able to double clicked on the .exe file to run the program.
 User shall be able to install and operate the program without assistance of any kind or major technical skills.
 
-Performance
+*Performance*
+
 The program shall not take longer than 3 minutes during an average loading process.
 Any sort of command received from the user shall not take longer than 10 seconds to execute.
 The user should be able to walk around the world smoothly and see 3D animals, plants, and buildings on every run.
 
-Maintainability
+*Maintainability*
+
 The application does not need to be maintained. Future up
 
-Portability
+*Portability*
+
 The program shall be able to run on Windows and Mac OSX operating system.
 
-Understandability
+*Understandability*
+
 Any user that has knowledge of how to run an application should be able to run this program.
 Users shall be able to operate the program without outside assistance.  
 
-Reusability
+*Reusability*
+
 Components/Assets created in this application can be reused or modified in any Unity3D project.
 This application can be easily adapted into games or different applications.
+
+## RESULT IMAGES
+![](https://github.com/vuochnin/3DGraphics_FarmHouse/blob/master/Result%20images/image1.png)
+![](https://github.com/vuochnin/3DGraphics_FarmHouse/blob/master/Result%20images/image2.png)
+![](https://github.com/vuochnin/3DGraphics_FarmHouse/blob/master/Result%20images/image3.png)
+![](https://github.com/vuochnin/3DGraphics_FarmHouse/blob/master/Result%20images/image4.png)
+![](https://github.com/vuochnin/3DGraphics_FarmHouse/blob/master/Result%20images/image5.png)
+![](https://github.com/vuochnin/3DGraphics_FarmHouse/blob/master/Result%20images/image6.png)
+![](https://github.com/vuochnin/3DGraphics_FarmHouse/blob/master/Result%20images/image7.png)
